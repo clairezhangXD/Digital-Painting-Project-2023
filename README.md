@@ -16,6 +16,8 @@ This was my introduction to OOP and integrating features into an existing progra
 Theory concepts applied in this assignment learnt throughout the unit:
 - Stacks
 - Queues
+- Bit set
+- set
 
 ## Setup
 
