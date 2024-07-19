@@ -10,6 +10,9 @@
 
 - Claire Zhang (czha0512@student.monash.edu)
 
+## Claire's Takeaways
+This was my introduction to OOP and integrating features into an existing program. This was very challenging at the time, but through being persistent in seeking help from the teaching team and finding resources online, I was able to complete the tasks!
+
 ## Setup
 
 Note: For all of these you may need to replace `python` with `py` or `python3` depending on your operating system and python version.
