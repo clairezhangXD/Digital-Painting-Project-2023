@@ -1,4 +1,4 @@
-# Fundamentals of Algorithms - Assignment 1 S1 2023
+# Fundamentals of Algorithms - Project 1 S1 2023
 
 ## Attribution
 
@@ -11,9 +11,9 @@
 - Claire Zhang (czha0512@student.monash.edu)
 
 ## Claire's Takeaways
-This was my introduction to OOP and integrating features into an existing program. This was very challenging at the time, but through being persistent in seeking help from the teaching team and finding resources online, I was able to complete the tasks!
+This was my introduction to OOP and integrating features into an existing program. This was very challenging at the time, but through perseverance, seeking help from the teaching team and finding resources online, I was able to complete the project!
 
-Theory concepts applied in this assignment learnt throughout the unit:
+Theory concepts applied/learned in this project:
 - Time complexities
 - Stacks
 - Queues
